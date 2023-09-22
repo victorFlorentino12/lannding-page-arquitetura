@@ -16,9 +16,10 @@ width: 100%;
 margin: 206px 354px 197px 60px;   
 }
 #title-header{
-    font-size: 50px;
+    font-size: 45px;
     margin-bottom: 10px;
     font-weight: 600;
+    width: 100%;
 }
 #div-header p{
     font-size: 15px;
